@@ -10,8 +10,24 @@ public class Person {
   public void setName(String newName) {
     this.name = newName;
   }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  //Branch solved
+  //Branch solved
+=======
+<<<<<<< HEAD
+  //Branch solved
+=======
+>>>>>>> one
 
   //Branch solved
   //Branch solved
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> one
+>>>>>>> two
+>>>>>>> one
 }
