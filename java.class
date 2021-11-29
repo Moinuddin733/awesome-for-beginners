@@ -11,16 +11,23 @@ public class Person {
     this.name = newName;
   }
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
   //Branch solved
   //Branch solved
 =======
 <<<<<<< HEAD
   //Branch solved
 =======
+>>>>>>> one
 
   //Branch solved
+  //Branch solved
 
+<<<<<<< HEAD
+=======
 
 >>>>>>> one
 >>>>>>> two
+>>>>>>> one
 }
