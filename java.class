@@ -10,5 +10,12 @@ public class Person {
   public void setName(String newName) {
     this.name = newName;
   }
+<<<<<<< HEAD
   //Branch solved
+=======
+
+  //Branch solved
+
+
+>>>>>>> one
 }
